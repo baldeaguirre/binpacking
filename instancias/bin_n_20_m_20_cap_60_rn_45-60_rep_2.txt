@@ -1,0 +1,5 @@
+objetos: 20
+contenedores: 20
+capacidad_contenedores: 60
+tamaño_objetos:
+57 51 46 60 60 55 46 48 60 53 54 60 52 53 51 56 46 55 49 59 

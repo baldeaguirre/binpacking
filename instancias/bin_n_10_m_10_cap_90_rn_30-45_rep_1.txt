@@ -1,0 +1,5 @@
+objetos: 10
+contenedores: 10
+capacidad_contenedores: 90
+tamaño_objetos:
+44 42 41 41 38 42 41 45 36 39 
